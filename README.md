@@ -7,3 +7,9 @@
 - [4 практика](readmes\4.md)
 
 - [5 практика](readmes\5.md)
+
+- [6 практика](readmes\6.md)
+
+- [7 практика](readmes\7.md)
+
+- [8 практика](readmes\8.md)
